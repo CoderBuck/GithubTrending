@@ -34,7 +34,4 @@ dependencies {
     implementation 'com.orhanobut:logger:2.1.1'
     implementation 'com.google.code.gson:gson:2.8.2'
     implementation 'pl.droidsonroids.retrofit2:converter-jspoon:1.2.2'
-    //
-    compileOnly 'org.projectlombok:lombok:1.16.20'
-    annotationProcessor 'org.projectlombok:lombok:1.16.20'
 }
